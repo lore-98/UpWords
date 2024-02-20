@@ -1,10 +1,7 @@
-# UpWords
-Upwords is a letter tile word game similar to Scrabble, with players building words using letter tiles on a gridded game board. Unlike Scrabble, in Upwords letters can be stacked on top of existing words to create new words. Scoring is determined by the number of letter tiles stacked in a new word.
-
 # Upwords
 
 ## Description
-Upwords is a board game implemented as a terminal-based project for the bachelor's course "Foundations of Computer Science". Starting only with the game instructions and a bonus list of Italian words, this project was developed from scratch. It's entirely written in C++, and the gameplay takes place in the terminal using ASCII symbols to represent the board.
+Upwords is a letter tile word game similar to Scrabble, with players building words using letter tiles on a gridded game board. Unlike Scrabble, in Upwords letters can be stacked on top of existing words to create new words. Scoring is determined by the number of letter tiles stacked in a new word. It has been implemented as a terminal-based project for the bachelor's course "Foundations of Computer Science". Starting only with the game instructions and a bonus list of Italian words, this project was developed from scratch. It's entirely written in C++, and the gameplay takes place in the terminal using ASCII symbols to represent the board.
 
 ## Features
 - Player creation and management.
