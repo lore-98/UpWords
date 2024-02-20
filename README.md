@@ -26,4 +26,4 @@ The game relies on a dictionary file named "words_italian" located in the "file 
 Currently, the project is a completed assignment for an academic course and is not open for contributions. However, feedback and suggestions are welcome, especially on the suggestion function.
 
 ## Support
-For support or further information, please contact [your_email@example.com].
+For support or further information, please contact [lore.bancale@gmail.com].
